@@ -9,8 +9,3 @@ int main(void)
 	res = a+b;
 	printf("the result is %i", res);
 }
-
-int addition(int a, int b)
-{
-	return a+b;
-}
